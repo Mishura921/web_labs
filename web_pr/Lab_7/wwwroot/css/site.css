@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffeeba; /* Яркий желтый цвет фона */
+    padding: 20px;
+}
+
+h1 {
+    color: #343a40;
+}
+
+.table {
+    margin-top: 20px;
+    background-color: #ffffff; /* Белый фон для таблиц */
+    border-radius: 5px; /* Закругленные углы */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Лёгкая тень */
+}
+
+.btn-danger {
+    margin-left: 5px; /* Небольшое расстояние для кнопки удаления */
+}
+
+.navbar {
+    background-color: #ffcc80; /* Светло-оранжевый цвет */
+}
